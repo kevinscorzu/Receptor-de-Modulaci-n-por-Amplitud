@@ -1,0 +1,15 @@
+module Register (input clk, rst,
+					  input [31:0] dataIn,
+					  output [31:0] dataOut);
+
+	always @(posedge clk, posedge rst)
+		begin
+			if (rst)
+				dataOut = 32'd0;
+			else
+				dataOut = dataIn;
+		end
+
+			
+					  
+endmodule 

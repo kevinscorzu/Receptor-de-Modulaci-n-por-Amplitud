@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at Multiplier.sv(1): object "A" differs only in case from object "a" in the same scope File: C:/Users/skryf/Documents/Taller de Diseno Analogico/Proyecto 4/SystemVerilog/Modules/Multiplier.sv Line: 1
+Info (10281): Verilog HDL Declaration information at Multiplier.sv(2): object "C" differs only in case from object "c" in the same scope File: C:/Users/skryf/Documents/Taller de Diseno Analogico/Proyecto 4/SystemVerilog/Modules/Multiplier.sv Line: 2
+Info (10281): Verilog HDL Declaration information at Multiplier.sv(1): object "B" differs only in case from object "b" in the same scope File: C:/Users/skryf/Documents/Taller de Diseno Analogico/Proyecto 4/SystemVerilog/Modules/Multiplier.sv Line: 1

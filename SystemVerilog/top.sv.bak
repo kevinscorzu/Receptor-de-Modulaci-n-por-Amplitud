@@ -1,0 +1,11 @@
+module top ();
+
+	logic [31:0] addr, rdm, rds, rdc;
+
+	messageROM mROM(addr, rdm);
+	
+	sinROM sROM(addr, rds);
+	
+	cosROm cROM(addr, rdc);
+
+endmodule 
